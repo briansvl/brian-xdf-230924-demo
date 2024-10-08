@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { withSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 import { ComponentWithContextProps } from 'lib/component-props';
 
